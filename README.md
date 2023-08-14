@@ -1,6 +1,8 @@
 # OIBSIP_2
 
-Portfolio:
+
+LEVEL 1 TASK 2:
+PORTFOLIO:
 This is a personal portfolio with the basic skills in CSS and HTML.
 
 
