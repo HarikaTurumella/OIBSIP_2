@@ -6,4 +6,4 @@ PORTFOLIO:
 This is a personal portfolio with the basic skills in CSS and HTML.
 
 
-https://rawcdn.githack.com/HarikaTurumella/OIBSIP_2/69c1461fbb5eb97e465720ea2aa8a06f8b2a05f9/index.html
+https://raw.githack.com/HarikaTurumella/OIBSIP_2/b93a9c14b444cc78db12be19465d42a85f5f692c/index.html
